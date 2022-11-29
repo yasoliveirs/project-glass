@@ -1,0 +1,50 @@
+﻿body{
+	font-family: poppins, sans-serif;
+	background-color: #ffffff;
+	box-sizing: 10px blue 10px;
+}
+
+div#interfaces{
+	display: block;
+	background-color: #0C49CC;
+	margin: none;
+	margin: -10px;
+	block-size: 400px;
+
+}
+
+div#interfaces img.logotipo {
+ 	width: 150px;
+ 	margin: 30px 20px 0px 85px;
+
+}
+
+div#interfaces figcaption.icones-menu{
+	margin: 0px;
+}
+
+h3#destinos {
+  border: 2px solid white;
+  border-color: white;
+  margin: 10px 20px;
+  padding: 5px;
+  border-radius: 15px;
+}
+
+p#subtitulo{
+	margin-top: 0px;
+	font-family: poppins, sans-serif;
+	color: #ffffff;
+	margin-left: 75px;
+}
+
+div#interfaces h1#celso {
+	color: #ffffff;
+}
+
+h1#celso {
+	font-family: poppins, sans-serif;
+	text-decoration: bolder;
+	margin-left: 60px;
+	margin-bottom: 0px;
+}
